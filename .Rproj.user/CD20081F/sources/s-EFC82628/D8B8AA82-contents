@@ -1,0 +1,8 @@
+name: "Miscellaneous Mascitti Musings"
+navbar:
+  title: "Miscellaneous Mascitti Musings"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Remembering Marly and Frank L. on Father's Day 2021"
+      href: marly-frank-fathers-day-2021.html
